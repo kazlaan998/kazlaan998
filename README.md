@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently not working on any specific project — just exploring and learning!<br>🤝 I’m not looking for collaborations at the moment, but always open to ideas.<br>🆘 I need help with... well, pretty much everything! I'm here to learn and grow. 😅<br>🌱 I’m a 4th-year Computer Science student currently learning Python and have built some mini projects in C++, Arduino, and Python)<br>💬 Ask me about Cybersecurity, Web Development, or just tech in general!<br>⚡ Fun fact: I’m a big fan of anime, gaming, and football ⚽🎮🎌
+🔭 I’m currently not working on any specific project — just exploring and learning!<br>🤝 I’m not looking for collaborations at the moment, but always open to ideas.<br>🆘 I need help with... well, pretty much everything! I'm here to learn and grow. 😅<br>🌱 I’m a 4th-year Computer Science student currently learning Python and have built some mini projects in C++, Arduino, and Python<br>💬 Ask me about Cybersecurity, Web Development, or just tech in general!<br>⚡ Fun fact: I’m a big fan of anime, gaming, and football ⚽🎮🎌
 
 
 ## 🌐 Socials:
